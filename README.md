@@ -1,7 +1,7 @@
 Unleash Your PC's Potential: Introducing Jb Tweaks
 Stop the Stutter, Boost the Frames:
 
-Tired of input lag and sluggish performance holding you back in games? [Batch File Name] is your one-stop solution for a smoother, faster, and cleaner PC experience.
+Tired of input lag and sluggish performance holding you back in games? Jb Tweaks is your one-stop solution for a smoother, faster, and cleaner PC experience.
 
 Optimized for Speed, Built for Compatibility:
 
