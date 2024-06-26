@@ -3,9 +3,6 @@ color 6
 REM ASCII art for the warning message
 echo.
 echo *****************************************
-echo *        WARNING: Jack is too sexy for       *
-echo *                      This shi*
-echo *                                        *
 echo *    PLEASE CREATE RESTORE POINT FIRST!   *
 echo *                                       *
 echo *    This script provides advanced       *
@@ -18,7 +15,7 @@ echo *                                       *
 echo *    Do not use if you are not           *
 echo *    familiar with the changes.          *
 echo *                                       *
-echo *                 CRedit to JackB   *
+echo *                   
 echo *                                       *
 echo *****************************************
 echo.
@@ -38,7 +35,7 @@ echo.          VMMMP" dMMMMMP dMP   dMP dMP dMP dMP dMP dMP   dMP   dMMMMMP     
 echo.                                                                                                                          
 echo.                                                                                                                                                                                                                                                                                                                                   
 echo.                                                               +700 TWEAKS 
-echo.                                                                 VER. 2.1 By JB
+echo.                                                                 VER. 2.1 By JACK
 echo.                                                                                                          
 echo.                                                                                                                                                                                    
 echo.
